@@ -1,5 +1,5 @@
 # Visualization and Sonification of Heart Data with Processing and Pure Data
-# Juan Miguel Rojas & José Manuel García
+### By: Juan Miguel Rojas & José Manuel García
 
 This project combines data visualization and sonification from a heart rate dataset, using Processing to display dynamic visuals and Pure Data to generate sounds that consistently represent the data.
 
